@@ -1,8 +1,6 @@
-# my website
+<a href="https://github.com/umpornsoeau/website/actions?query=CI"><img alt="status" src="https://github.com/umpornsoeau/website/workflows/CI/badge.svg"></a>
 
-<p align="center">
-  <a href="https://github.com/umpornsoeau/website/actions?query=CI"><img alt="status" src="https://github.com/umpornsoeau/website/workflows/CI/badge.svg"></a>
-</p>
+# my website
 
 ## Project setup
 ```
